@@ -1,0 +1,470 @@
+
+
+body{
+    background-color: rgba(251,250,248,255);
+     max-width: 100%;
+     max-height: auto;
+     border-radius: 10px;
+}
+
+
+.navigation{
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    background-color:rgba(251,250,248,255);
+    text-decoration: none;
+    top: 0;
+    
+    
+
+}
+.logo{
+    width: 15%;
+    height: 15%;
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+    
+}
+header .ul{
+    
+    margin-left:42% ;
+    
+}
+header ul li{
+    list-style: none;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+
+    
+    
+}
+header ul li a{
+    text-decoration: none;
+    color: rgb(70, 62, 62);
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*...............start-nav...............*/
+
+.bg-pic{
+    width: 100%;
+    height: 900px;
+    
+}
+
+.main-nav{
+    position: absolute;
+    top: 0;
+    margin-top: 60px;
+}
+
+.text-hed{
+    margin-left: 200px;
+    color: #f0e8e8;
+    
+}
+.text-hed p{
+    font-size: 25px;
+    letter-spacing: 3px;
+    margin-top:50px;
+}
+.text-hed h1{
+    font-size: 70px;
+    color: #f0e8e8;
+    
+}
+.form{
+    position: absolute;
+    top: 0%;
+    margin-left: 935px;
+    width: 400px;
+    height: 700px;
+    background-color:rgba(251,250,248,255);
+    justify-content: center;
+    padding: 20px;
+
+}
+
+
+.input1{
+    width: 90%;
+    height: 25px;
+    font-size: 20px;
+    padding: 15px;
+    margin: 10px;
+    border: 0px;
+    background-color: rgb(219, 219, 219);
+}
+.book{
+    line-height: 22px;
+    
+}
+.btn-frist{
+    width:100%;
+    height: 50px;
+    margin-left: 5px;
+    border: 0;
+    background-color: #fff;
+    color: black;
+    font-size: 20px;
+    font-family: Arial,;
+
+
+}
+.btn-frist:hover{
+    background-color: #c52626;
+    color: #fff;
+    border: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*...............end-nav...............*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*...............start-section...............*/
+.sec-frist{
+    top: 0;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: #fff;
+    padding-top: 40px;
+}
+.sec-frist h1{
+    font-size: 40px;
+
+}
+.sec-frist p{
+    font-size: 20px;
+
+}
+.sec-0{
+    text-align: center;
+}
+.sec-0 h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.sec-0 p{
+    text-align: center;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 30px;
+}
+.sec-1 h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.sec-1 p{
+    text-align: center;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 30px;
+}
+hr{
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.sec-chose h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    
+}
+.sec-chose p{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(85, 79, 79);
+
+}
+.sec-chose0{
+    display: flex;
+    float: left;
+
+
+}
+.sec-chose img{
+    margin-top: 30px;
+
+}
+.sec-chose1{
+    width: 220px;
+    height: 200px;
+    background-color: rgba(251,250,248,255);
+    margin-left: 200px;
+    text-align: center;
+    
+
+}
+.sec-chose2{
+    width: 220px;
+    height: 200px;
+    background-color:rgba(251,250,248,255);
+    margin-left: 90px;
+    text-align: center;
+    
+
+}
+.sec-chose3{
+    width: 220px;
+    height: 200px;
+    background-color:rgba(251,250,248,255);
+    margin-left: 90px;
+    text-align: center;
+    
+
+}
+.sec-chose4{
+    width: 220px;
+    height: 200px;
+    background-color:rgba(251,250,248,255);
+    margin-left: 90px;
+    text-align: center;
+    
+
+}
+/*...............evd-section...............*/
+/*...............start-artical...............*/
+article{
+    display:flex;
+    position:relative ;
+    
+}
+.art-container{
+    margin-top: 250px;
+    position: relative;
+
+}
+.art-container h1{
+    margin-left: 500px;
+    display: flex;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.paragraph{
+    display: flex;
+    position: absolute;
+    float: left;
+    margin-top: 70px;
+    margin-left: 200px;
+    font-size: 20px;
+    
+   
+}
+.btn1{
+    margin-left: 200px;
+    display: flex;
+    position: absolute;
+    margin-top: 300px;
+    width:auto ;
+    height: auto;
+    padding: 15px;
+    align-items: center;
+    
+    
+    
+    
+    
+}
+.btn1:hover{
+    color: #fff;
+    background-color: #c52626;
+    border: 0;
+
+}
+
+
+.paragraph1{
+    
+    font-size: 15px;
+    color: rgb(155, 148, 148);
+    margin-left: 200px;
+    position: relative;
+    display: flex;
+    float: left;
+}
+.img1{
+    margin-left: 910px;
+    display: flex;
+    float: left;
+    position: relative;
+    padding-top: 130px;
+    
+
+}
+
+
+.art-container2{
+    margin-top: 500px;
+    text-align: center;
+}
+.img4{
+    width: 50%;
+    width: 50%;
+    margin-left: 250px;
+}
+
+
+
+
+/*...............end-artical...............*/
+
+
+
+
+/*...............start-slide...............*/
+
+
+
+.img{
+    width: 10%;
+    height: 10%;
+}
+
+
+
+/*...............end-slide...............*/
+
+/*...............start-from...............*/
+.foot-container-main{
+    width: 100%;
+    height: 800px;
+    background-color: antiquewhite;
+    padding-top: 50px;
+    
+   
+    
+
+}
+.foot-container2{
+    width: 40%;
+    margin-left: 30%;
+    background-color: antiquewhite;
+}
+.foot-container2 h1{
+    text-align: center;
+}
+.foot-container2 .p{
+    text-align: center;
+}
+.foot-container2 .pp{
+    margin-left: 5px;
+}
+.input{
+    width: 93%;
+    margin-top: 15px;
+    padding: 20px;
+    color: rgb(121, 109, 109);
+
+}
+.foot-container2 .button{
+    margin-left: 35%;
+    width: 200px;
+    height: 50px;
+    
+    
+
+}
+
+.button:hover{
+    color: #fff;
+    background-color: #c52626;
+    border: 0;
+}
+/*...............end-from...............*/
+/*...............start-last.............*/
+.foot-container{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    
+}
+.foot-container{
+    
+    padding-top: 50px;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+.foot-container p{
+    margin-top: 40px;
+    font-size: 15px;
+    line-height: 20px;
+    font-style: normal;
+
+
+}
+.foot-container a{
+    text-decoration: none;
+    margin-left: 50px;
+
+}
+.foot-btn{
+    margin-top: 30px;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    border: 1px solid rgb(255, 255, 255);
+}
+button:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+/*...............end-last.............*/
